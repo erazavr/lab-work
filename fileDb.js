@@ -44,7 +44,6 @@ module.exports = {
     }
   },
   async getItems(arrName) {
-    console.log('kfjnsfkjn');
     return data[arrName];
   },
   async getItemById(arrName, id) {
