@@ -1,0 +1,32 @@
+{
+  "categories": [
+    {
+      "title": "Комп",
+      "id": "vJ5QOxZOYmGP0JJmrqAAE"
+    },
+    {
+      "title": "Телефоны",
+      "id": "wdqFliEy9FSgCN84Gh82j"
+    }
+  ],
+  "location": [
+    {
+      "title": "Магазин",
+      "id": "W7azf4cGcckWgNzOw5IKD"
+    },
+    {
+      "title": "Школа",
+      "id": "QZoBCUHOPx_vw_9pItkI6"
+    }
+  ],
+  "items": [
+    {
+      "title": "Комп",
+      "description": "ФЫвфыв",
+      "categoryId": "vJ5QOxZOYmGP0JJmrqAAE",
+      "locationId": "W7azf4cGcckWgNzOw5IKD",
+      "image": "jNr81VhUJof5_GTFjr-w-.jpeg",
+      "id": "0Kkr9zmEmuYZXjxuI8k1P"
+    }
+  ]
+}
